@@ -86,5 +86,5 @@ Fun_fact: "I debug with print statements and I'm proud of it! 😄"
 <h3 align="left"> &nbsp;&nbsp;&nbsp; My Stats:</h3>
 ###
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicCoder06&theme-tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul955587&theme-tokyonight" alt="GitHub Streak" />
 </div>
